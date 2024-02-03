@@ -4,8 +4,7 @@ A Basic flutter app's Login UI design page.
 
 ## Screenshot
 
-
-
+<img src="Screenshot/Screenshot.png" alt="ScreenShot1" width="200" height="400"> 
 
 
 
